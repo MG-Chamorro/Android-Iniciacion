@@ -1,0 +1,7 @@
+ni.edu.uam.practice233.app-pngs-0 C:\Users\hpvictus\OneDrive\Documentos\UAM\Android\Practice233\app\build\generated\res\pngs\debug
+ni.edu.uam.practice233.app-updated_navigation_xml-1 C:\Users\hpvictus\OneDrive\Documentos\UAM\Android\Practice233\app\build\generated\updated_navigation_xml\debug
+ni.edu.uam.practice233.app-packageDebugResources-2 C:\Users\hpvictus\OneDrive\Documentos\UAM\Android\Practice233\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+ni.edu.uam.practice233.app-packageDebugResources-3 C:\Users\hpvictus\OneDrive\Documentos\UAM\Android\Practice233\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+ni.edu.uam.practice233.app-debug-4 C:\Users\hpvictus\OneDrive\Documentos\UAM\Android\Practice233\app\build\intermediates\merged_res\debug\mergeDebugResources
+ni.edu.uam.practice233.app-debug-5 C:\Users\hpvictus\OneDrive\Documentos\UAM\Android\Practice233\app\src\debug\res
+ni.edu.uam.practice233.app-main-6 C:\Users\hpvictus\OneDrive\Documentos\UAM\Android\Practice233\app\src\main\res
